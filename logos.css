@@ -3,6 +3,7 @@ text-align: center;
 margin: auto;
 
 padding: 15px 15px 15px 15px;
+list-style-type: none;
 
 
 }
@@ -16,4 +17,12 @@ margin: auto;
    background-size: cover;
    height: auto;
    background-color: black;
+}
+
+a {
+
+color: inherit; /* blue colors for links too */
+text-decoration: inherit; /* no underline */
+
+
 }
