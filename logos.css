@@ -1,0 +1,19 @@
+.windows {
+text-align: center;
+margin: auto;
+
+padding: 15px 15px 15px 15px;
+
+
+}
+
+.logo {
+text-align: center;
+margin: auto;
+}
+
+.background {
+   background-size: cover;
+   height: auto;
+   background-color: black;
+}
